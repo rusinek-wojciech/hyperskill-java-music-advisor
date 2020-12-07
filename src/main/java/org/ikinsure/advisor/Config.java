@@ -1,4 +1,4 @@
-package org.ikinsure.hard.advisor;
+package org.ikinsure.advisor;
 
 public class Config {
     public static String SERVER_PATH = "https://accounts.spotify.com";

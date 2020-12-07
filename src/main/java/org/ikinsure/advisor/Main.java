@@ -1,4 +1,4 @@
-package org.ikinsure.hard.advisor;
+package org.ikinsure.advisor;
 
 import com.sun.net.httpserver.HttpServer;
 
